@@ -2,6 +2,8 @@
 
 Configer is a small library for Dart that makes creating config files easy.
 
+Pub package site: https://pub.dartlang.org/packages/configer
+
 Early alpha state of development! But it works :D
 
 Inspired by Yamler of geNAZt (https://www.spigotmc.org/resources/yamler.315/)
