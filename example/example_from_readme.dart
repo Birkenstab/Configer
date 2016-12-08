@@ -1,5 +1,5 @@
 import 'dart:io';
-import 'package:Configer/configer.dart';
+import 'package:configer/configer.dart';
 
 main( ) async {
     var myConfig = new TestConfig( new File( "myCoolConf.json" ) );

@@ -1,4 +1,4 @@
-name: Configer
+name: configer
 description: Configer is a small library for Dart that makes creating config files easy.
 version: 0.0.1
 author: Moritz Beck <github@birkenstab.de>
