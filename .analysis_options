@@ -1,0 +1,23 @@
+# This file allows you to configure the Dart analyzer.
+#
+# The commented part below is just for inspiration. Read the guide here:
+#   https://www.dartlang.org/guides/language/analysis-options
+
+analyzer:
+  strong-mode: true
+linter:
+  rules:
+    - hash_and_equals
+    - invariant_booleans
+    - valid_regexps
+    - annotate_overrides
+    - camel_case_types
+    - empty_catches
+    - library_names
+    - implementation_imports
+    - library_prefixes
+    - prefer_is_not_empty
+    - super_goes_last
+    - package_names
+    - constant_identifier_names
+    - non_constant_identifier_names

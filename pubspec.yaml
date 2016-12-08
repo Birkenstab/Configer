@@ -1,0 +1,11 @@
+name: Configer
+description: Configer is a small library for Dart that makes creating config files easy.
+version: 0.0.1
+author: Moritz Beck <github@birkenstab.de>
+homepage: http://birkenstab.de
+
+environment:
+  sdk: '>=1.0.0 <2.0.0'
+
+dev_dependencies:
+  test: '>=0.12.0 <0.13.0'
